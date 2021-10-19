@@ -1,0 +1,90 @@
+
+ * { 
+     margin:0;
+     padding:0;
+     box-sizing:border-box;
+}
+
+
+
+body{
+    font-family:cursive;
+}
+
+
+
+
+.clearfix: after {
+    content:"";
+    display:table;
+    clear:both;
+}
+
+h1,h2 {
+    
+    font-family:cursive;
+    
+}
+
+
+h1{
+    color: #fd0740;
+    font-size:45px;
+    
+}
+
+h2{
+    color:#096f15;
+    font-size:25px;
+    font-family:cursive;
+}
+p {
+    font-size:15px;
+    text-align:justify;
+       
+        
+}
+
+
+.alpha-text {
+    color: blueviolet;
+}
+
+.aboutcss {
+    
+    font-size:30px;
+}
+.level1 {
+       width:940px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:30px;
+    
+}
+
+.level2 {
+    background-color:peachpuff;
+    width:75%;
+    float:left;
+    padding-right: 30px;
+    position:relative;
+}
+
+.level3 {
+    background-color: gold;
+    width:25%;
+    float:left;
+}
+
+.Another {
+    background-color: aqua;
+    border-top:10px solid;
+    margin-top:20px;
+    
+}
+
+.date {
+    position: absolute;
+    top:30px;
+    right:20px;
+}
